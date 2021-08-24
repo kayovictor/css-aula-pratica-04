@@ -1,0 +1,17 @@
+#div1 , #div2 {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 0 auto;
+}
+#div1 {
+    background: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#div2 {
+    background: lightslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: white;
+}

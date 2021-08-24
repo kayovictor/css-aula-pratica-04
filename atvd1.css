@@ -1,0 +1,37 @@
+#caixa_normal {
+    background-color: #BF1F1F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    color: white;
+    width: 400px;
+}
+.ptitulo{
+    color: black;
+}
+#caixa_com_box_model_01 {
+    width: 300px;
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #F5F5DC;
+    margin: 5px;
+    background-color:  #BF1F1F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color: #4B0082;
+}
+#caixa_com_box_model_02 {
+    width: 345px;
+    padding: 20px;
+    border-width: 7px;
+    border-style: dotted;
+    border-color: RGB(139,0,139);
+    margin: 15px;
+    background-color: AliceBlue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: RGB(25,25,112);
+    text-align: right;
+}

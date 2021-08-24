@@ -1,0 +1,13 @@
+#externa {
+    width: 400px;
+    height: 400px;
+    background: #ccc;
+    display:table;
+    margin: 0 auto;
+    }
+    #interna {
+    text-align: center;
+    vertical-align:middle;
+    display:table-cell;
+    margin: 0 auto;
+    }
